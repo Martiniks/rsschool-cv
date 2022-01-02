@@ -72,7 +72,7 @@ function revrot(str, sz) {
 ##Experience:
 
 **_Junior FrontEnd Developer._** 
-_I have experience in JS+TS+Anular and Frontend development in currently working project._
+_I have experience in JS+TS+Anular and Frontend development more than one year._
 
 ##Languages:
 * Russian - Native
