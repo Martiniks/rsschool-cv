@@ -22,7 +22,7 @@ _My goal is to gain new knowledge in front-end development._
   * Visual Foxpro
 * **Technologies/APIs/, Methodologies:**
   * CSS/CSS3
-  * Git, Bitbucket, GitHub
+  * Git, Bitbucket, GitHub, GitLab
   * Typescript
   * Angular (v.11 and above)   
   * HTML5
@@ -33,10 +33,11 @@ _My goal is to gain new knowledge in front-end development._
   * Online Google Office
   * PHPStorm
   * Sublime Text,
-  * Figma  
-  * Jira Software
+  * Figma, Zeplin  
+  * Jira Software, YouTrack
   * Windows (95,98,2000,XP,7,10)
   * Linux (Ubuntu)
+  * Jenkins
 
 ##Code example:
 
